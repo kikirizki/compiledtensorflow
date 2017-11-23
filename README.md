@@ -12,7 +12,7 @@ sudo apt-get install git
 # cd where you would like to clone this repo
 cd ~
 git clone https://github.com/kikirizki/compiledtensorflow.git
-# if not done correctly or you are using downloaded repo go to the folder:
+#then go to the folder
 cd compiledtensorflow/old
 cmake CMakeLists.txt
 make
