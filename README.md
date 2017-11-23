@@ -18,5 +18,3 @@ cmake CMakeLists.txt
 make
 ./example
 ```
-* (Skip this step if you have offcial MXNet installed.) Build MXNet: `cd /path/to/mxnet-ssd/mxnet`. Follow the official instructions [here](http://mxnet.io/get_started/install.html).
-```
