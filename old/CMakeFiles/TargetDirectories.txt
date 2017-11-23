@@ -1,0 +1,3 @@
+/home/kikirizki/compiledtf/old/CMakeFiles/rebuild_cache.dir
+/home/kikirizki/compiledtf/old/CMakeFiles/edit_cache.dir
+/home/kikirizki/compiledtf/old/CMakeFiles/example.dir
